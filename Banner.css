@@ -1,0 +1,47 @@
+.call {
+  animation: ani 2s 5s linear infinite;
+}
+@keyframes ani {
+ 
+    0% {
+        rotate: -20deg;
+       
+      }
+  100% {
+    rotate: 20deg;
+   
+  }
+}
+.calling{
+  animation:call 2s 3s linear infinite ;
+}
+@keyframes call {
+  
+}
+
+@media (max-width: 575.98px) {
+  .banner {
+    display: flex !important;
+    flex-direction: column !important;
+  }
+  .banner img {
+    width: 55% !important;
+    /* margin-left: 18%; */
+  }
+  .banners {
+    height: 270vh;
+  }
+  .call{
+    width:100px !important;
+    z-index: 10;
+    position: fixed;
+    right: 0px !important;
+    top: 200px !important;
+  }
+}
+@media (max-width: 2000px) {
+  .banner {
+    display: flex;
+    flex-direction: row;
+  }
+}

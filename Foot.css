@@ -1,0 +1,126 @@
+ 
+
+.facebook {
+ color: white;
+    font-size: 40px;
+    border-radius: 7px;
+    padding: 2px 10px 2px 10px;
+    transition: all 3s;
+
+
+}
+.topic img {
+    text-align: end;
+} 
+ 
+.facebook:hover {
+    transform: translateY(-10px);
+}
+
+ .linkdin {
+    color: white;
+    font-size: 20px;
+    border-radius: 7px;
+    padding: 2px 10px 2px 10px;
+    transition: all 3s;
+
+
+}   
+
+.linkdin:hover {
+    transform: translateY(-10px);
+}
+
+.address {
+    text-align: end;
+    margin-top: 25px !important;
+}
+
+
+.icons {
+    height: 35px;
+    width: 35px;
+    background-color: red;
+
+}
+
+.contact {
+    text-align: left;
+}
+
+
+.twitter {
+    color: white;
+    font-size: 20px;
+    border-radius: 7px;
+    padding: 2px 10px 2px 10px;
+    transition: all 3s;
+
+}
+
+.twitter:hover {
+    transform: translateZ(10px);
+}
+
+.instagram {
+    color: white;
+    font-size: 20px;
+    border-radius: 7px;
+    padding: 2px 10px 2px 10px;
+    transition: all 3s;
+
+}
+
+.instagram:hover {
+    transform: translateY(-10px);
+}
+
+
+
+@media(max-width:320px) {
+
+
+    .topic {
+        text-align: start !important;
+
+    }
+
+    .contact {
+        text-align: start !important;
+        margin-top: px !important;
+        line-height: 10px !important;
+    }
+
+    .address {
+        text-align: start !important;
+        margin-top: 25px !important;
+        line-height: 30px !important;
+    }
+
+    .links {
+        text-align: start !important;
+        margin-top: 25px !important;
+        line-height: 30px !important;
+    }
+
+    .link {
+        text-align: start !important;
+        line-height: 30px !important;
+
+    }
+
+    .rights {
+        font-size: 14px !important;
+        margin-bottom: 30px !important;
+    }
+
+    .foot .arr img {
+        margin-left: 250px !important;
+    }
+
+    .icon1 {
+        margin-top: 13px !important;
+    }
+
+
+}

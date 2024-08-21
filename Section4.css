@@ -1,0 +1,19 @@
+@media (max-width:575px){
+  .section4 {
+    height: 10vh !important;
+  }
+  .sliding img {
+    width: 100% !important;
+  }
+  .sliding h6{
+    text-align: center !important;
+    font-size: 30px;
+  }
+ 
+  .therapy{ 
+    width: 100% !important;
+    object-fit: cover !important;
+    filter: blur(2px) !important;
+  }
+
+}

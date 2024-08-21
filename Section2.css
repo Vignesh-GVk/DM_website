@@ -1,0 +1,12 @@
+@media (max-width: 575.98px) {
+    .healing{
+        display: flex;
+        flex-direction: column;
+    }
+    .section2{
+        height: 355vh;
+    }
+    .healing1{
+        height: 345vh !important;
+    }
+}

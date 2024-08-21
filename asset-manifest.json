@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/static/css/main.0ff8b9d3.css",
+    "main.js": "/static/js/main.dce8d2cd.js",
+    "static/js/453.68693753.chunk.js": "/static/js/453.68693753.chunk.js",
+    "static/media/home.mp4": "/static/media/home.a20a6f594d24720558b7.mp4",
+    "static/media/trichy.png": "/static/media/trichy.fb05930f61d5c783429a.png",
+    "static/media/madurai.png": "/static/media/madurai.71d88300d344f7f8f855.png",
+    "static/media/chennai.png": "/static/media/chennai.6f94fe77b6e0d2c71948.png",
+    "static/media/puducherry.png": "/static/media/puducherry.0ffde9d130b71af0062e.png",
+    "static/media/WEB ICONS-10.png": "/static/media/WEB ICONS-10.f669b12661cab96bd534.png",
+    "static/media/karma.png": "/static/media/karma.c22a9fde99d5d82d96c0.png",
+    "static/media/banner-logo.png": "/static/media/banner-logo.677771e96c5b49399e14.png",
+    "static/media/WEB ICONS-05.png": "/static/media/WEB ICONS-05.34d3eff3fc70168e4863.png",
+    "static/media/WEB ICONS-01.png": "/static/media/WEB ICONS-01.ea16507d9ccddeda66a7.png",
+    "static/media/WEB ICONS-02.png": "/static/media/WEB ICONS-02.5e1de4120b3d16f8ced1.png",
+    "static/media/WEB ICONS-07.png": "/static/media/WEB ICONS-07.1f1af1eeab4d3923453b.png",
+    "static/media/WEB ICONS-04.png": "/static/media/WEB ICONS-04.4cca03a8f5394793e719.png",
+    "static/media/ooty.png": "/static/media/ooty.394cbaba0401d051fb83.png",
+    "static/media/WEB ICONS-06.png": "/static/media/WEB ICONS-06.bdea6037169c54a45551.png",
+    "static/media/WEB ICONS-03.png": "/static/media/WEB ICONS-03.45f4a8247cf17fb23315.png",
+    "static/media/WEB ICONS-09.png": "/static/media/WEB ICONS-09.a030c0a4120567f588f4.png",
+    "static/media/WEB ICONS-08.png": "/static/media/WEB ICONS-08.bc4a201991fe0d48aa99.png",
+    "static/media/7.avif": "/static/media/7.f882c89bd26fde983ad9.avif",
+    "static/media/panchkarma.png": "/static/media/panchkarma.4193431d0c9e25cc453a.png",
+    "static/media/therapy.jpg": "/static/media/therapy.3058286b0d67c04b727b.jpg",
+    "static/media/ayurvedha.avif": "/static/media/ayurvedha.79bd22679245c258d9a1.avif",
+    "static/media/call.webp": "/static/media/call.1f73f1dfb26762ddbff7.webp",
+    "static/media/slick.svg": "/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/index.html",
+    "main.0ff8b9d3.css.map": "/static/css/main.0ff8b9d3.css.map",
+    "main.dce8d2cd.js.map": "/static/js/main.dce8d2cd.js.map",
+    "453.68693753.chunk.js.map": "/static/js/453.68693753.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0ff8b9d3.css",
+    "static/js/main.dce8d2cd.js"
+  ]
+}

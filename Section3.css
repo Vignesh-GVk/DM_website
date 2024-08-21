@@ -1,0 +1,13 @@
+@media (max-width:575px){
+    .holistic img{
+        width: 30% !important;
+        margin: 30px;
+        margin-left: 30% !important;
+    }
+    .section3{
+        margin-top: 100px;
+        height: 230vh;
+        align-items: center !important;
+        text-align:center;
+    }
+}

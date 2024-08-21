@@ -1,0 +1,13 @@
+@media (max-width:575px){
+    .branches{
+        display: grid !important;
+        /* flex-direction: column !important; */
+        grid-template-columns: repeat(1fr) !important;
+        flex-wrap: wrap !important;
+        margin: 40px !important;
+    }
+  .ooty{
+    width: 100% !important;
+
+  }
+}
